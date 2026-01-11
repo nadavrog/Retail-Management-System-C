@@ -59,3 +59,8 @@ A comprehensive `log.txt` file automatically records all system activities with 
 4.  **First Run:** If no employee file exists, the system will create a default Admin account:
     * **User:** `admin`
     * **Password:** `12345678`
+
+## 👥 Authors
+
+* **Adam Korsunski** (ID: 207803933)
+* **Nadav Rogers** (ID: 326301520)
